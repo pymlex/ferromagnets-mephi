@@ -10,10 +10,10 @@ This project provides Python code for processing experimental data from Lab Work
 - Magnetic flux density $$ B $$ with uncertainties.
 - Magnetic field intensity $$ H $$ with uncertainties.
 - Magnetic permeability with uncertainties:
-- 
+
 $$ \mu = \frac{B}{\mu_0 H} $$
 
-- Remanent flux density $$ B_r $$ and coercive field $$ H_c $$ from hysteresis loops.
+- Remanent flux density $ B_r $ and coercive field $$ H_c $$ from hysteresis loops.
 - Saturation flux density $$ B_s $$ and corresponding field $$ H_s $$.
 - Hysteresis loop area $$ \sigma $$ and specific energy loss $$ w $$ with uncertainties.
 - Power loss $$ P $$ calculated from loop area.
